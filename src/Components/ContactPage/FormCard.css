@@ -1,0 +1,26 @@
+.contact-card {
+    background-color: #f8f9fa; 
+    border: 1px solid #ddd; 
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-card form {
+    padding: 20px;
+  }
+  
+  .contact-card label {
+    font-weight: bold;
+  }
+  
+  .contact-card textarea {
+    resize: none; 
+  }
+  
+  .contact-card button {
+    background-color: #083346;
+    color: #fff;
+    border: none;
+  }
+  
+  

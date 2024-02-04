@@ -1,0 +1,15 @@
+.info-card {
+    background-color: #083346;
+    color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .info-card h5 {
+    margin-bottom: 10px;
+  }

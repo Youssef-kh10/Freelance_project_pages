@@ -1,0 +1,25 @@
+.Auth-form-container {
+    max-width: 400px; 
+    margin: auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .Auth-form-container.signup {
+    background-color: #f4f4f4;
+    height: 370px;
+  }
+
+  .Auth-form-container.signin {
+    background-color: #f4f4f4;
+    height: 370px;
+  }
+  
+  .Auth-form-title {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  

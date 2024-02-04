@@ -1,0 +1,20 @@
+.hero-section {
+  background-color: #083346;
+  color: #fff;
+  padding: 80px 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8; 
+  position: relative;
+
+}
+
+
+.map-card {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 25px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
